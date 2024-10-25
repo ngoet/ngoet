@@ -11,7 +11,7 @@
 
 ---
 ### :man_technologist: About me
-My name is Niels and I'm Head of Data & Insight (Railway Infrastructure) at [Bane NOR](https://www.banenor.no).
+My name is Niels and I'm Head of Data at [CEMIT](https://www.cemit.com).
 
 - 📚 I’m currently learning [Azure](https://azure.microsoft.com), [LangChain](https://www.langchain.com), [FastAPI](https://fastapi.tiangolo.com), and [React](https://react.dev).
 - 📁 I'm currently working on... a bunch of different projects (visit [my website](https://ngoet.com) to learn more).
